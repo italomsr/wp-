@@ -1,6 +1,6 @@
 # Tag Linker - WordPress Plugin
 
-### Descrição:
+## Descrição:
 Este script PHP cria um plugin para WordPress chamado "Tag Linker" que substitui automaticamente as palavras-chaves no conteúdo do post por links de outros posts relacionados com base em tags definidas.
 
 A fim de garantir que todas as tags inseridas no post sejam distribuídas ao longo do texto, o script verifica a densidade de palavras-chave de cada tag e insere um número proporcional de links para essa tag no conteúdo do post. 
@@ -48,3 +48,7 @@ Italo Mariano - [Linkedin](https://www.linkedin.com/in/italomsr/)
 
 ## Licença:
 GPL2
+
+## Imagem:
+![tag_linker](https://github.com/italomsr/wp-tag-linker/assets/84940616/bf1d94bb-cffe-4b8c-926a-16763d60b196)
+
