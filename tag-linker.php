@@ -9,10 +9,8 @@ Author URI: https://www.linkedin.com/in/italomsr/
 License: GPL2
 
 Description long:
-Este script PHP cria um plugin para WordPress chamado "Tag Linker" que substitui automaticamente as tags no conteúdo do post por links para outros posts relacionados com base nessas tags.
-
+Este script PHP cria um plugin para WordPress chamado "Tag Linker" que substitui automaticamente as palavras-chaves no conteúdo do post por links de outros posts relacionados com base em tags definidas.
 Para garantir que todas as tags inseridas no post sejam distribuídas ao longo do texto, o script verifica a densidade de palavras-chave de cada tag e insere um número proporcional de links para essa tag no conteúdo do post. Dessa forma, se uma tag aparecer com mais frequência no texto, mais links serão inseridos para essa tag, garantindo uma distribuição uniforme.
-
 */
 
 if (!defined('ABSPATH')) {
